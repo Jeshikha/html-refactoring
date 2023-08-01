@@ -27,3 +27,11 @@ https://github.com/Jeshikha/html-refactoring
 
 2. The URL of the functional, deployed application on GitHub Pages.
 https://jeshikha.github.io/html-refactoring/
+
+### Mock-Up
+
+The following images shows the web application's appearance and functionality:
+
+![The Horiseon webpage includes a navigation bar and a header image](assets/images/html-1.png)
+![The Horiseon webpage includes the cards with text and images](assets/images/html-2.png)
+![The Horiseon webpage includes the cards with text and images at the bottom of the page.](assets/images/html-3.png)
