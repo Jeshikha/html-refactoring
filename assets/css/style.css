@@ -92,11 +92,7 @@ main {
     color: #ffffff;
 }
 
-.benefit {
-    margin-bottom: 32px;
-    color: #ffffff;
-}
-
+/* Gave same class on the aside as "benefit" on html so that it can simplify CSS under one name for image, font */
 
 .benefit h3 {
     margin-bottom: 10px;
@@ -118,6 +114,7 @@ main {
     color: #ffffff;
 }
 
+/* Gave same class on main as "product" on html so that it can simplify CSS under one name for image, font */
 .product img {
     max-height: 200px;
 }
@@ -134,6 +131,9 @@ footer {
     text-align: center;
 }
 
-footer h2 {
+
+footer h4 {
     font-size: 20px;
 }
+
+/* readjusted the footer from h2 to h4 from html */
